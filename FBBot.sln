@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FBBot", "FBBot\FBBot.njsproj", "{83E3C593-5761-4287-BA37-78CB0DD67343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E3C593-5761-4287-BA37-78CB0DD67343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E3C593-5761-4287-BA37-78CB0DD67343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E3C593-5761-4287-BA37-78CB0DD67343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E3C593-5761-4287-BA37-78CB0DD67343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E5D4B8-C20D-43A4-8313-14288DBFE12E}
+	EndGlobalSection
+EndGlobal
